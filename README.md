@@ -6,6 +6,8 @@ Sends a magic to the current dialog in Telegram | Отправляет волш�
 
 Instalation | Установка
 $ pip3 install telethon
+
 Run | Запуск
 $ python3 ❤Magic telegram.py
+
 Login in your telegram account and send "magic" in dialog | Войдите в свой аккаунт Telegram и отправьте "magic" в диалоговом окне
